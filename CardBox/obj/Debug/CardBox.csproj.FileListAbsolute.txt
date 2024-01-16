@@ -1,0 +1,47 @@
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\bin\Debug\CardBox.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\bin\Debug\CardBox.pdb
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\obj\Debug\CardBox.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\obj\Debug\CardBox.pdb
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\bin\Debug\Cards.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Tutorials\Tutorial 8,9\Cards\CardBox\bin\Debug\Cards.pdb
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\bin\Debug\CardBox.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\bin\Debug\CardBox.pdb
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\bin\Debug\Cards.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\bin\Debug\Cards.pdb
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\obj\Debug\CardBox.dll
+C:\Users\david\Documents\Durham College\Semester 4\OOP-4200\Durak\Durak - Copy\CardBox\obj\Debug\CardBox.pdb
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\bin\Debug\CardBox.dll
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\bin\Debug\CardBox.pdb
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\obj\Debug\CardBox.dll
+D:\Schoolwork\Semester 4\OOP\Durak - Copy\CardBox\obj\Debug\CardBox.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\bin\Debug\CardBox.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\bin\Debug\CardBox.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardBox\obj\Debug\CardBox.pdb
+C:\DC\2017Winter\OOP\Durak\CardBox\bin\Debug\CardBox.dll
+C:\DC\2017Winter\OOP\Durak\CardBox\bin\Debug\CardBox.pdb
+C:\DC\2017Winter\OOP\Durak\CardBox\bin\Debug\Cards.dll
+C:\DC\2017Winter\OOP\Durak\CardBox\bin\Debug\Cards.pdb
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.dll
+C:\DC\2017Winter\OOP\Durak\CardBox\obj\Debug\CardBox.pdb

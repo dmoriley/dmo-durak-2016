@@ -1,0 +1,46 @@
+Player1 challenging the computer. Date: 2017-04-05 12:00:00 AM
+The trump card is Six of Spades
+
+Dealing Player Initial Hands: 
+Player1 dealt the Six of Hearts
+Player1 dealt the Seven of Spades
+Player1 dealt the Seven of Diamonds
+Player1 dealt the King of Spades
+Player1 dealt the Nine of Diamonds
+Player1 dealt the Queen of Spades
+Computer dealt the King of Clubs
+Computer dealt the Eight of Spades
+Computer dealt the Queen of Diamonds
+Computer dealt the Ten of Hearts
+Computer dealt the Jack of Hearts
+Computer dealt the Eight of Hearts
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 played the Six of Hearts
+Computer played the Eight of Hearts
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Computer dealt the Seven of Clubs
+Player1 dealt the King of Diamonds
+End of round.
+Computer played the Seven of Clubs
+Player1 played the Seven of Spades
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 dealt the Nine of Spades
+Computer dealt the Six of Clubs
+End of round.
+Player1 played the Seven of Diamonds
+Computer played the Queen of Diamonds
+Player1 played the Queen of Spades
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Seven of Diamonds
+Computer dealt the Queen of Diamonds
+Computer dealt the Queen of Spades
+Player1 dealt the Jack of Clubs
+Player1 dealt the Ten of Diamonds
+End of round.
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+End of round.
+Computer played the Six of Clubs

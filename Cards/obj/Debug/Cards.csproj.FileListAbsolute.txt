@@ -1,0 +1,34 @@
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\obj\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial #8 9\TutorialNine\Cards\obj\Debug\Cards.pdb
+C:\Users\Travis\Desktop\T\Cards\bin\Debug\Cards.dll
+C:\Users\Travis\Desktop\T\Cards\bin\Debug\Cards.pdb
+C:\Users\Travis\Desktop\T\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Desktop\T\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Users\Travis\Desktop\T\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\Travis\Desktop\T\Cards\obj\Debug\Cards.dll
+C:\Users\Travis\Desktop\T\Cards\obj\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\obj\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\obj\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Tutorials\Tutorial 8 9\TutorialNine\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\obj\Debug\Cards.Properties.Resources.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\obj\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\obj\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\Cards\bin\Debug\Cards.dll
+C:\DC\2017Winter\OOP\Durak\Cards\bin\Debug\Cards.pdb
+C:\DC\2017Winter\OOP\Durak\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\DC\2017Winter\OOP\Durak\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\DC\2017Winter\OOP\Durak\Cards\obj\Debug\Cards.dll
+C:\DC\2017Winter\OOP\Durak\Cards\obj\Debug\Cards.pdb

@@ -1,0 +1,180 @@
+Player1 challenging the computer. Date: 2017-03-30 12:00:00 AM
+The trump card is Jack of Diamonds
+
+Dealing Player Initial Hands: 
+Player1 dealt the Ace of Diamonds
+Player1 dealt the Eight of Spades
+Player1 dealt the Nine of Hearts
+Player1 dealt the Eight of Clubs
+Player1 dealt the Ten of Clubs
+Player1 dealt the Seven of Diamonds
+Computer dealt the Ace of Clubs
+Computer dealt the King of Spades
+Computer dealt the Ace of Spades
+Computer dealt the Queen of Hearts
+Computer dealt the King of Diamonds
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Player1 played the Seven of Diamonds
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 dealt the Queen of Clubs
+Computer dealt the Six of Hearts
+End of round.
+Player1 played the Ace of Diamonds
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Ace of Diamonds
+Player1 dealt the Queen of Spades
+End of round.
+Player1 played the Nine of Hearts
+Computer played the Queen of Hearts
+Player1 played the Queen of Spades
+Computer played the King of Spades
+Player1 played the Queen of Clubs
+Computer played the Ace of Clubs
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Computer dealt the Nine of Diamonds
+Computer dealt the Eight of Diamonds
+Player1 dealt the Six of Diamonds
+Player1 dealt the Nine of Clubs
+Player1 dealt the Queen of Diamonds
+End of round.
+Computer played the Six of Hearts
+Player1 played the Six of Diamonds
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 dealt the Ten of Hearts
+Computer dealt the Seven of Hearts
+End of round.
+Player1 played the Eight of Clubs
+Computer played the Eight of Diamonds
+Player1 played the Eight of Spades
+Computer played the Ace of Spades
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Computer dealt the Seven of Spades
+Computer dealt the Ace of Hearts
+Player1 dealt the Jack of Spades
+Player1 dealt the Ten of Diamonds
+End of round.
+Computer played the Seven of Spades
+Player1 played the Queen of Diamonds
+Computer played the Seven of Hearts
+Player1 played the Ten of Diamonds
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 dealt the Eight of Hearts
+Player1 dealt the Seven of Clubs
+Computer dealt the King of Hearts
+Computer dealt the Jack of Hearts
+End of round.
+Player1 played the Jack of Spades
+Computer played the Nine of Diamonds
+Player1 played the Nine of Clubs
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Jack of Spades
+Computer dealt the Nine of Diamonds
+Computer dealt the Nine of Clubs
+Player1 dealt the Ten of Spades
+Player1 dealt the King of Clubs
+End of round.
+Player1 played the Eight of Hearts
+Computer played the Jack of Hearts
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Player1 dealt the Jack of Clubs
+End of round.
+Computer played the Nine of Diamonds
+Computer played the Nine of Clubs
+Player1 dealt the Nine of Diamonds
+Player1 dealt the Nine of Clubs
+Computer dealt the Six of Spades
+End of round.
+Player1 accepted cards.
+Computer played the Six of Spades
+Player1 played the Ten of Spades
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Computer dealt the Six of Clubs
+End of round.
+Player1 played the Jack of Clubs
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Jack of Clubs
+End of round.
+Player1 played the Nine of Clubs
+Computer played the Jack of Clubs
+Player1 played the Nine of Diamonds
+Computer played the King of Diamonds
+Player1 played the King of Clubs
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Nine of Clubs
+Computer dealt the Jack of Clubs
+Computer dealt the Nine of Diamonds
+Computer dealt the King of Diamonds
+Computer dealt the King of Clubs
+End of round.
+Player1 played the Seven of Clubs
+Computer played the Nine of Clubs
+Player1 ended their attack.
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+End of round.
+Computer played the Six of Clubs
+Player1 played the Ten of Clubs
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+End of round.
+Player1 played the Ten of Hearts
+Player1 has won the game!
+New Game Started...
+The trump card is Six of Spades
+
+Dealing Player Initial Hands: 
+Player1 dealt the King of Hearts
+Player1 dealt the Ace of Clubs
+Player1 dealt the Queen of Diamonds
+Player1 dealt the King of Spades
+Player1 dealt the Seven of Spades
+Player1 dealt the Ace of Spades
+Computer dealt the Queen of Clubs
+Computer dealt the Nine of Spades
+Computer dealt the Jack of Hearts
+Computer dealt the Jack of Spades
+Computer dealt the Jack of Clubs
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Player1 challenging the computer. Date: 2017-03-30 12:00:00 AM
+The trump card is Ace of Diamonds
+
+Dealing Player Initial Hands: 
+Player1 dealt the Queen of Spades
+Player1 dealt the Ten of Spades
+Player1 dealt the Eight of Spades
+Player1 dealt the Ace of Spades
+Player1 dealt the Nine of Clubs
+Player1 dealt the Six of Hearts
+Computer dealt the Four of Hearts
+Computer dealt the Nine of Spades
+Computer dealt the Six of Spades
+Computer dealt the Queen of Diamonds
+Computer dealt the Five of Spades
+Roles Switched. The Attacker is Computer and the the Defender is Player1
+Player1 played the Ace of Spades
+Computer ended their attack.
+Roles Switched. The Attacker is Player1 and the the Defender is Computer
+Player1 dealt the Eight of Hearts
+Computer dealt the King of Diamonds
+End of round.
+Player1 played the Ten of Spades
+Computer accepted cards.
+Player1 ended their attack.
+Computer dealt the Ten of Spades
+Player1 dealt the Nine of Diamonds
+End of round.
+Player1 played the Nine of Diamonds
+Computer played the Queen of Diamonds
+Player1 played the Nine of Clubs
+Computer accepted cards.
+Player1 played the Queen of Spades

@@ -1,0 +1,30 @@
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\Durak.exe.config
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\Durak.exe
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\Durak.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\CardBox.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\CardLib.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\Cards.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\CardBox.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\CardLib.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\bin\Debug\Cards.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.frmInitialSettings.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.frmMainGame.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.Properties.Resources.resources
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.exe
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\Durak\obj\Debug\Durak.pdb
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\Durak.exe.config
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.exe
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.pdb
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\Durak.exe
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\Durak.pdb
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\CardBox.dll
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\Cards.dll
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\CardBox.pdb
+C:\DC\2017Winter\OOP\Durak\Durak\bin\Debug\Cards.pdb
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.frmInitialSettings.resources
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.frmMainGame.resources
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.Properties.Resources.resources
+C:\DC\2017Winter\OOP\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardLib\bin\Debug\CardLib.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardLib\bin\Debug\CardLib.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardLib\obj\Debug\CardLib.dll
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardLib\obj\Debug\CardLib.pdb
+D:\Schoolwork\Semester 4\OOP\Final Project\Durak\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+C:\DC\2017Winter\OOP\Durak\CardLib\obj\Debug\CardLib.dll
+C:\DC\2017Winter\OOP\Durak\CardLib\obj\Debug\CardLib.pdb
